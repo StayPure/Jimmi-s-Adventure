@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e55c9d31300bf476fae2b8867594e3f2, type: 3}
+  m_Name: bow
+  m_EditorClassIdentifier: 
+  itemSprite: {fileID: 21300000, guid: 33e76c2af6c87466bacbea6ffff59e21, type: 3}
+  itemDescription: It's a Bow! Use Secondary Attack To Fire!
+  flavorText: 
+  isKey: 0
